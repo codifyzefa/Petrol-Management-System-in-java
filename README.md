@@ -13,12 +13,12 @@ The **Petrol Management System** is a Java-based application designed to manage 
 ## Technologies Used
 - **Programming Language**: Java
 - **Database**: MySQL or SQLite (customize as per your implementation)
-- **Frameworks/Libraries**: JDBC, JavaFX (if applicable for GUI)
+- **Frameworks/Libraries**: JDBC, JavaFX , JavaSwing (if applicable for GUI)
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/petrol-management-system.git
+   git clone https://github.com/codifyzefa/Petrol-Management-System-in-java.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -39,7 +39,14 @@ The **Petrol Management System** is a Java-based application designed to manage 
    - View or generate reports.
 
 ## Screenshots
-_Add screenshots of your application here to give users a visual overview._
+![Screenshot (126)](https://github.com/user-attachments/assets/4af83a71-eeda-4e29-9353-d3e38c8fbdbd)
+![Screenshot (130)](https://github.com/user-attachments/assets/aef990d7-971d-4324-8b90-073404ee9ad8)
+![Screenshot (131)](https://github.com/user-attachments/assets/7c5fe0e7-8025-4cad-bdfd-289f3560a345)
+![Screenshot (132)](https://github.com/user-attachments/assets/e05e1bfb-bea3-4259-b12a-eb5b00352ea2)
+![Screenshot (133)](https://github.com/user-attachments/assets/c9f3b205-e4af-47ee-aab3-6efe7d4354ab)
+![Screenshot (134)](https://github.com/user-attachments/assets/8c4589df-2e66-49f0-ab98-475d4cd89b3e)
+![Screenshot (135)](https://github.com/user-attachments/assets/d65c161f-2384-417b-91e5-a74b9862f82a)
+
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
@@ -53,8 +60,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For questions or feedback, please reach out to:
-- **Your Name**: [yourname@example.com](mailto:yourname@example.com)
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- Email : huzaifasafdar36109@gmail.com
+- GitHub: https://github.com/codifyzefa
 
 ---
 
