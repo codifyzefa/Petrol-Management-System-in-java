@@ -12,7 +12,7 @@ public class Employee extends Person {
         Scanner input = new Scanner(System.in);
     while (true) {
       try {
-        System.out.println("Enter customer id: ");
+        System.out.println("Enter Employee id: ");
         employeeID = input.nextInt();
         input.nextLine();
         break;
@@ -50,7 +50,7 @@ public class Employee extends Person {
         Scanner input = new Scanner(System.in);
     while (true) {
       try {
-        System.out.println("Enter customer id: ");
+        System.out.println("Enter Employee id: ");
         employeeID = input.nextInt();
         input.nextLine();
         break;
