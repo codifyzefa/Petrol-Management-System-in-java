@@ -47,6 +47,11 @@ The **Petrol Management System** is a Java-based application designed to manage 
 ![Screenshot (134)](https://github.com/user-attachments/assets/8c4589df-2e66-49f0-ab98-475d4cd89b3e)
 ![Screenshot (135)](https://github.com/user-attachments/assets/d65c161f-2384-417b-91e5-a74b9862f82a)
 
+## Video
+
+
+https://github.com/user-attachments/assets/02bd0f36-3861-4dd4-9b10-58507ca2f2e7
+
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
