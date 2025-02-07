@@ -38,6 +38,9 @@ The **Petrol Management System** is a Java-based application designed to manage 
    - Record sales transactions.
    - View or generate reports.
 
+## UML Diagram
+![pms](https://github.com/user-attachments/assets/acc2b4af-6d82-47fb-a358-211864b91c0a)
+
 ## Screenshots
 ![Screenshot (126)](https://github.com/user-attachments/assets/4af83a71-eeda-4e29-9353-d3e38c8fbdbd)
 ![Screenshot (130)](https://github.com/user-attachments/assets/aef990d7-971d-4324-8b90-073404ee9ad8)
